@@ -117,7 +117,7 @@ Software projects have the advantage of requiring very few tools and resources t
 ***
 
 ## Employment Opportunities
-Machine learning engineers have high salaries and been increasing in demand every year. However, they also have strict education and skill requirements as listed in previous sections. Here is a table of example job listings:
+Machine learning engineers have high salaries (anywhere from $60,000 to $250,000 a year) and been increasing in demand. The salary vastly varies depending on the specific field and service the ML engineer works on. However, they all have strict education and skill requirements as listed in previous sections. Here is a table of example job listings:
 |              |    Entry Level    |      Mid Level      |    Senior Level   |
 | ------------ | :---------------: | :-----------------: |:-----------------:|
 | **Employer** | AutoMetrics Manufacturing Technologies Inc. | Nylas | Uber  | 
