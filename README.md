@@ -1,4 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10194969&assignment_repo_type=AssignmentRepo)
+
  # **Machine Learning Engineer**
 
 Machine learning is the process of using large data sets to train an algorithm to detect patterns and make predictions. A machine learning engineer uses this process to create artificial intelligence systems that can solve real world problems. In other words, they create programs that can find patterns in current data to generate non-existent future data. This is a long process that goes as follows:
@@ -9,14 +10,75 @@ Machine learning is the process of using large data sets to train an algorithm t
 5. Apply those results to a different scenario 
 
 
-The products of a machine learning engineer can be seen in software and programs used daily. For example, programs for facial recognition, ad relevancy, financial predictions, and even self-driving cars all use machine learning.
+The products of a machine learning engineer can be seen in software and programs used daily. For example, programs for facial recognition, ad relevancy, financial predictions, self-driving cars, and even browser search suggestions all use machine learning.
 
 ***
 
 ## Required Education
-A bachelor's degree in Computer Science or a related program is almost always required. Here are some undergrad programs available at Ontario universities:
+A bachelor's degree in Computer Science or a related program is almost always required. Here are some undergrad programs available at Ontario universities that would serve as a good background for a machine learning engineer job:
 
-Computer Science 
+### *Computer Science:*
+- University of Waterloo 
+- University of Toronto
+- Queen's University
+- McMaster University
+
+### *Software Engineering:*
+- University of Waterloo 
+- University of Toronto
+- Queen's University
+- Carleton University
+
+### *Data Science:*
+- University of Toronto
+- University of Ottawa
+- University of Waterloo
+- Western University
+
+## Education Example Overview
+### [Computer Science at University of Waterloo](https://uwaterloo.ca/future-students/programs/computer-science)
+Waterloo is a top choice for anyone in the engineering and comptuer science fields. The exceptional co-op system offered alongside many of their programs allows students to graduate with up to two years of paid work experience.
+
+### Entrance Requirements: 
+
+- Advanced Functions 
+- Calculus and Vectors
+- Grade 12U English
+- 3 other U/M courses (at least 1 more U)
+
+Individual selection from low-mid 90s (95+ is expected in recent years)
+
+Grade 11 U Computer Science is recommended. 
+Participation in math and coding contests such as CCC and Euclid is strongly recommended.
+
+### First Year Courses:
+The first year courses mostly involve advanced computer science and mathematics.
+
+Semester 1:
+- Designing Functional Programs
+- Algebra for Honours Mathematics
+- Calculus for Honours Mathematics
+- Communications Skills Course
+- 1 Elective
+
+Semester 2:
+- Elementary Algorithm Design and Data Abstraction
+- Tools and Techniques for Software Development
+- Linear Algebra 1 for Honours Mathematics
+- Calculus 2 for Honours Mathematics
+- 2 Electives
+
+From the second year onwards, half the semesters are dedicated to co-op, and core courses consist of only computer science, leaving the rest as electives. Electives allow for specializations in specific fields, such as artificial intelligence.
+
+[Additional Graduation Requirements](http://ugradcalendar.uwaterloo.ca/page/MATH-Bachelor-of-Computer-Science-1)
+
+### Program Length: 
+
+5 years for bachelor's degree (includes 2 years of paid work experience)   
+2 additional years for master’s degree
+
+
+
 
 
 
