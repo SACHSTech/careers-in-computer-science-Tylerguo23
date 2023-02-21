@@ -101,7 +101,7 @@ Aside from having a degree, most employers will look for someone with experience
 A university co-op program allows students to learn through hands-on experience while getting paid for it. This is a great way to explore one's options and gather valuable skills, and almost ensures students a job soon after graduation. Some standard examples of co-op jobs related to machine learning include web development, research assistance, and technical systems analysis. These jobs all instill skills required for software related employment and working in professional teams.
 
 ### Personal Projects:
-Software projects have the advantage of requiring very few tools and resources to create. While a machine learning project would be difficult to tackle, the limitless assets available online make it possible. One incredible but fun example is a virtual streamer on Twitch named “[Neuro-sama](https://www.twitch.tv/vedal987)”, created by someone named Jack Vedal over the course of four years. This “streamer” relies entirely on machine learning to react and respond to live messages/donations, and even sing and play video games. By linking these systems to speech programs and an anime-style avatar, Vedal created an entirely automated entertainer. He still supervises the streams to make sure his creation never says anything scandalous or TOS-breaking, but the bot is improving on its own day-by-day. Having a project like this on your record would guarantee the interest of any employer.
+Software projects have the advantage of requiring very few tools and resources to create. While a machine learning project would be difficult to tackle, the limitless assets available online make it possible. One incredible but fun example I foundis a virtual streamer on Twitch named “[Neuro-sama](https://www.twitch.tv/vedal987)”, created by someone named Jack Vedal over the course of four years. This “streamer” relies entirely on machine learning to react and respond to live messages/donations, and even sing and play video games. By linking these systems to speech programs and an anime-style avatar, Vedal created an entirely automated entertainer. He still supervises the streams to make sure his creation never says anything scandalous or TOS-breaking, but the bot is improving on its own day-by-day. Having a project like this on your record would guarantee the interest of any employer.
 
 
 
@@ -116,6 +116,9 @@ Machine learning engineers have a high salary and have seen increasing demand ev
 | Experience|      1-2 years    |        3+ years     |       5+ years    |
 | Listing   |[Indeed.com](https://ca.indeed.com/machine-learning-$60,000-jobs?vjk=cbaa2e75d7368fae)| [Indeed.com](https://ca.indeed.com/jobs?q=machine+learning+%24100%2C000&pp=gQAAAAAAAAAAAAAAAAAB-Y5T3QADAAABAAA&vjk=d1593a9891c731f3)|[Indeed.com](https://ca.indeed.com/jobs?q=machine+learning&l=&from=searchOnHP&vjk=a7cf6cd7777004cb&advn=8589170693800026)|
 
+
+## Works Cited
+    bruh
 
 
 
