@@ -118,13 +118,16 @@ Software projects have the advantage of requiring very few tools and resources t
 
 ## Employment Opportunities
 Machine learning engineers have a high salary and have seen increasing demand every year. Here is a table of example job listings:
-|           |    Entry Level    |      Mid Level      |    Senior Level   |
-| --------- | :---------------: | :-----------------: |:-----------------:|
-| Employer  | AutoMetrics Manufacturing Technologies Inc. | Nylas | Uber  | 
-| Location  |    Markham, ON    |Toronto, ON (Remote) |    Toronto, ON    |
-| Salary    | $72,800 – $87,360 | $124,000 - $155,000 | $207,000–$230,000 |
-| Experience|      1-2 years    |        3+ years     |       5+ years    |
-| Listing   |[Indeed.com](https://ca.indeed.com/machine-learning-$60,000-jobs?vjk=cbaa2e75d7368fae)| [Indeed.com](https://ca.indeed.com/jobs?q=machine+learning+%24100%2C000&pp=gQAAAAAAAAAAAAAAAAAB-Y5T3QADAAABAAA&vjk=d1593a9891c731f3)|[Indeed.com](https://ca.indeed.com/jobs?q=machine+learning&l=&from=searchOnHP&vjk=a7cf6cd7777004cb&advn=8589170693800026)|
+|              |    Entry Level    |      Mid Level      |    Senior Level   |
+| ------------ | :---------------: | :-----------------: |:-----------------:|
+| **Employer** | AutoMetrics Manufacturing Technologies Inc. | Nylas | Uber  | 
+| **Location** |    Markham, ON    |Toronto, ON (Remote) |    Toronto, ON    |
+|  **Salary**  | $72,800 – $87,360 | $124,000 - $155,000 | $207,000–$230,000 |
+|**Experience**|      1-2 years    |        3+ years     |       5+ years    |
+| **Listing**  |[Indeed.com](https://ca.indeed.com/machine-learning-$60,000-jobs?vjk=cbaa2e75d7368fae)| [Indeed.com](https://ca.indeed.com/jobs?q=machine+learning+%24100%2C000&pp=gQAAAAAAAAAAAAAAAAAB-Y5T3QADAAABAAA&vjk=d1593a9891c731f3)|[Indeed.com](https://ca.indeed.com/jobs?q=machine+learning&l=&from=searchOnHP&vjk=a7cf6cd7777004cb&advn=8589170693800026)|
+
+##### *Exact details can be found on the listing pages
+
 
 ***
 
