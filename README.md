@@ -2,7 +2,7 @@
 
  # **Machine Learning Engineer**
 
-Machine learning is the process of using large data sets to train an algorithm to detect patterns and make predictions. A machine learning engineer uses this process to create artificial intelligence systems that can solve real world problems. In other words, they create programs that can find patterns in current data to generate non-existent future data. This is a long process that goes as follows:
+Machine learning is the process of using large data sets to train an algorithm to detect patterns and make predictions. A machine learning engineer uses this process to create artificial intelligence systems that can solve real world problems. In other words, they create programs that can find patterns in current data to generate non-existent future data. This long process usually goes as follows:
 1. Identify problem or task
 2. Find sufficient, relevant data sets
 3. Create algorithms to analyze those data sets through coding
@@ -12,7 +12,7 @@ Machine learning is the process of using large data sets to train an algorithm t
 <img src="https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960" width="479" height="308">
 
 
-The products of a machine learning engineer can be seen in software and programs used daily. For example, programs for facial recognition, ad relevancy, financial predictions, self-driving cars, and even browser search suggestions all use machine learning.
+The products of a machine learning engineer can be seen in software and programs used daily. For example, facial recognition systems, ad relevancy calculations, financial predictions, browser search suggestions, and even self-driving cars all use machine learning. It is up to machine learning engineers to work in teams and use their programming and problem-solving skills to create and improve the models that allow these systems to function.
 
 ***
 
@@ -117,16 +117,17 @@ Software projects have the advantage of requiring very few tools and resources t
 ***
 
 ## Employment Opportunities
-Machine learning engineers have a high salary and have seen increasing demand every year. Here is a table of example job listings:
+Machine learning engineers have high salaries and been increasing in demand every year. However, they also have strict education and skill requirements as listed in previous sections. Here is a table of example job listings:
 |              |    Entry Level    |      Mid Level      |    Senior Level   |
 | ------------ | :---------------: | :-----------------: |:-----------------:|
 | **Employer** | AutoMetrics Manufacturing Technologies Inc. | Nylas | Uber  | 
 | **Location** |    Markham, ON    |Toronto, ON (Remote) |    Toronto, ON    |
 |  **Salary**  | $72,800 – $87,360 | $124,000 - $155,000 | $207,000–$230,000 |
 |**Experience**|      1-2 years    |        3+ years     |       5+ years    |
+|   **Role**   |   Data Analytics  |    Data Analytics   |     Ad Delivery   |
 | **Listing**  |[Indeed.com](https://ca.indeed.com/machine-learning-$60,000-jobs?vjk=cbaa2e75d7368fae)| [Indeed.com](https://ca.indeed.com/jobs?q=machine+learning+%24100%2C000&pp=gQAAAAAAAAAAAAAAAAAB-Y5T3QADAAABAAA&vjk=d1593a9891c731f3)|[Indeed.com](https://ca.indeed.com/jobs?q=machine+learning&l=&from=searchOnHP&vjk=a7cf6cd7777004cb&advn=8589170693800026)|
 
-##### *Exact details can be found on the listing pages
+##### *Exact details and descriptions of the jobs and companies can be found on the listing pages
 
 
 ***
