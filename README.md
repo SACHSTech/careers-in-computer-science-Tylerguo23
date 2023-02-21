@@ -94,10 +94,16 @@ There are a variety of roles a machine learning engineer may fill, but here are 
 - A good collaborator and communicator
 
 
-## Gather Experience
+## Additional Experience
 Aside from having a degree, most employers will look for someone with experience around machine learning models or related projects/companies. Here are a few ways to gather practical experience outside the classroom:
 
 ### Co-op:
+A university co-op program allows students to learn through hands-on experience while getting paid for it. This is a great way to explore one's options and gather valuable skills, and almost ensures students a job soon after graduation. Some standard examples of co-op jobs related to machine learning include web development, research assistance, and technical systems analysis. These jobs all instill skills required for software related employment and working in professional teams.
+
+### Personal Projects:
+Software projects have the advantage of requiring very few tools and resources to create. While a machine learning project would be difficult to tackle, the limitless assets available online make it possible. One incredible but fun example is a virtual streamer on Twitch named “[Neuro-sama](https://www.twitch.tv/vedal987)”, created by someone named Jack Vedal over the course of four years. This “streamer” relies entirely on machine learning to react and respond to live messages/donations, and even sing and play video games. By linking these systems to speech programs and an anime-style avatar, Vedal created an entirely automated entertainer. He still supervises the streams to make sure his creation never says anything scandalous or TOS-breaking, but the bot is improving on its own day-by-day. Having a project like this on your record would guarantee the interest of any employer.
+
+
 
 
 ## Employment Opportunities
