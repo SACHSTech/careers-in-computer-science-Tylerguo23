@@ -77,8 +77,20 @@ From the second year onwards, half the semesters are dedicated to co-op, and cor
 5 years for bachelor's degree (includes 2 years of paid work experience)   
 2 additional years for master’s degree
 
+## Required Skills
+There are a variety of roles a machine learning engineer may fill, but here are some skills that are consistently required of them
 
+### Tehcnical Skills: 
+- Advanced programming experience (In Java, Python, Go, or C++ usually)
+- Excellent mathematical ability (especially in statistics and data management)
+- High degree of computer literacy
 
+### Non-Technical Skills:
+- Innovative
+- Organized
+- Observant and analytical
+- A great problem solver
+- A good collaborator and communicator
 
 
 
