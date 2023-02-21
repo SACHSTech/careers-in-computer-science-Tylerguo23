@@ -111,6 +111,7 @@ A university co-op program allows students to learn through hands-on experience 
 
 ### Personal Projects:
 Software projects have the advantage of requiring very few tools and resources to create. While a machine learning project would be difficult to tackle, the limitless assets available online make it possible. One incredible but fun example I found is an artifical intelligence streamer on Twitch named “[Neuro-sama](https://www.twitch.tv/vedal987)”, created by someone named Jack Vedal over the course of four years. This “streamer” relies entirely on machine learning to react and respond to live messages/donations, and even sing and play video games. By linking these systems to speech programs and an anime-style avatar, Vedal created an entirely automated entertainer. He still supervises the streams to make sure his creation never says anything scandalous or TOS-breaking, but the bot is improving on its own day-by-day. Having a project like this on your record would guarantee the interest of any employer.
+
 <img src="https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/7c70a39fca6e6197df0a_vedal987_46466684924_1672797663//thumb/thumb0-640x360.jpg" width="320" height="180">
 
 ***
@@ -128,9 +129,26 @@ Machine learning engineers have a high salary and have seen increasing demand ev
 ***
 
 ## Works Cited
-    bruh
 
+“17 Institutions Offering Software Engineering Courses in Ontario.” Hotcourses International, https://www.hotcoursesabroad.com/study/training-degrees/ontario/software-engineering-courses/loc/150/cgory/cb.66-4/sin/ct/programs.html. 
 
+Campbell, Tess. “2022 Maclean's University Rankings: Computer Science Programs - Schoolfinder.com!” SchoolFinder.com, SchoolFinder Group, 4 Nov. 2021, https://www.schoolfinder.com/Discover/Article/27/5621/2022-Macleans-University-Rankings-Computer-Science-Programs. 
+
+Doyle, Alison. “Computer Skills That Will Help You Get Hired.” Career Tool Belt, 8 Sept. 2020, https://www.careertoolbelt.com/computer-skills-that-will-help-you-get-hired/. 
+
+“Computer Science.” Undergraduate Programs, 22 July 2022, https://uwaterloo.ca/future-students/programs/computer-science. 
+
+“Computer Science Courses.” Undergraduate Programs, 6 Feb. 2023, https://uwaterloo.ca/future-students/courses/computer-science. 
+
+“How to Become a Machine Learning Engineer.” Western Governors University, 29 Dec. 2022, https://www.wgu.edu/career-guide/information-technology/machine-learning-engineer-career.html#close. 
+
+“Machine Learning Engineer Salary: How Much Can You Make?” Coursera, https://www.coursera.org/articles/machine-learning-engineer-salary. 
+
+“Machine Learning Jobs (with Salaries) 2022 | Indeed.com Canada.” Indeed, https://ca.indeed.com/Machine-Learning-jobs. 
+
+“Neuro-Sama.” Wikipedia, Wikimedia Foundation, 20 Feb. 2023, https://en.wikipedia.org/wiki/Neuro-sama. 
+
+Odynski, Matt. “What Is a Machine Learning Engineer? (2023 Guide).” BrainStation®, STAGE9 BrainStation®, 17 Aug. 2022, https://brainstation.io/career-guides/what-is-a-machine-learning-engineer#:~:text=An%20ML%20Engineer%20builds%20artificial,out%20future%20operations%20more%20accurately. 
 
 
 
