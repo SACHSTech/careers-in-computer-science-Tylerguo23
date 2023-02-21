@@ -77,6 +77,7 @@ From the second year onwards, half the semesters are dedicated to co-op, and cor
 5 years for bachelor's degree (includes 2 years of paid work experience)   
 2 additional years for master’s degree
 
+
 ## Required Skills
 There are a variety of roles a machine learning engineer may fill, but here are some skills that are consistently required of them
 
@@ -91,6 +92,12 @@ There are a variety of roles a machine learning engineer may fill, but here are 
 - Observant and analytical
 - A great problem solver
 - A good collaborator and communicator
+
+
+## Gather Experience
+Aside from having a degree, most employers will look for someone with experience around machine learning models or related projects/companies. Here are a few ways to gather practical experience outside the classroom:
+
+### Co-op:
 
 
 ## Employment Opportunities
